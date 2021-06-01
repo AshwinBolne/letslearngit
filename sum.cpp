@@ -5,7 +5,7 @@ int main()
 {
     int num1=2 ;
     int num2=4;
-    cout<<num1+num2<<endl;
+    cout<<"sum of two numbers"<<num1+num2<<endl;
 
  
  
